@@ -1,0 +1,8 @@
+.idea/
+build/
+
+oauth-config.toml
+oauth-tokens.toml
+
+outlook-oauth/config.go
+outlook-toritarou/config.go
